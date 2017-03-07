@@ -1,0 +1,7 @@
+#area1 { display: none; position: absolute; }
+#area2 { display: none; position: absolute; }
+#picture { width: 150px; height: 150px; }
+#foot { position: absolute; bottom: 0px; right: 100px; }
+#title { text-align: center; background-color: #888888; }
+#selector { margin: auto; }
+#bg { background-color: #333333; }
